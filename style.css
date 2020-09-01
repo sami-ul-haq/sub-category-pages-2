@@ -249,7 +249,7 @@ ul li{
     margin-bottom: 50px;
     transition: transform .5s;
     background-color: white;
-    border: 1px solid #FF6600;
+    border: 1px solid #990066;
 }
 
 .product-item:hover{
@@ -343,7 +343,7 @@ ul li{
 }
 
 .page-btn span:hover{
-    background: #FF6600;
+    background: #990066;
     color: #fff;
     box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
 }
