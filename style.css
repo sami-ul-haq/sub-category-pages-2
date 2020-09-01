@@ -329,7 +329,7 @@ ul li{
 
 .page-btn span{
     display: inline-block;
-    border: 1px solid #FF6600;
+    border: 1px solid #990066;
     margin-left: 10px;
     width: 40px;
     height: 40px;
@@ -343,7 +343,7 @@ ul li{
 }
 
 .page-btn span:hover{
-    background: #990066;
+    background: #FF6600;
     color: #fff;
     box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
 }
